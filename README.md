@@ -1,4 +1,4 @@
 ![B](https://github.com/Mowdat-Rida/Split-landing-page/blob/main/Before%20outut%201.png)
-![B]()
+![B](https://github.com/Mowdat-Rida/Split-landing-page/blob/main/Before%20output%202.png)
 ![A]()
 ![A]()
